@@ -15,7 +15,7 @@ Olá! O meu nome é Wilton Júnior, sou baiano, nordestino com orgulho e atualme
 
 ### 🚀 Meus objetivos:
 
-- Me formar em 2020
+- Me formar em 2021
 - Fazer mestrado em IA logo em seguida
 - Me especializar em desenvolvimento fullstack com JS
 - Aprender espanhol
