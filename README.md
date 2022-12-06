@@ -4,7 +4,7 @@
 
 ### 📝 Sobre mim
 
-Olá! O meu nome é Wilton Júnior, sou baiano, nordestino com orgulho e atualmente trabalho como Desenvolvedor Front end na Branef Innovation & Technology. Trabalho principalmente com React apesar da minha linguagem principal aqui no GitHub ser Java (culpa da minha faculdade). No meio acadêmico a minha principal área de interesse é IA (estou escrevendo o meu TCC na área e espero poder compartilhar em breve). No restante do meu dia eu estou bastante ocupado sendo um nerd viciado em Star Wars, gamer e torcedor do Esporte Clube Bahia.
+Olá! O meu nome é Wilton Júnior, sou baiano, nordestino com orgulho e atualmente trabalho como Desenvolvedor Front end na Wex Inc. Trabalho principalmente com Angular.JS apesar da minha linguagem principal aqui no GitHub ser Java (culpa da minha faculdade). No meio acadêmico a minha principal área de interesse é IA. No restante do meu dia eu estou bastante ocupado sendo um nerd viciado em Star Wars, gamer e torcedor do Esporte Clube Bahia.
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas @ [UCSAL](https://www.ucsal.br/)
 - 💢 Foco em desenvolvimento web
