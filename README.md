@@ -4,19 +4,19 @@
 
 ### 📝 Sobre mim
 
-Olá! O meu nome é Wilton Júnior, sou baiano, nordestino com orgulho e atualmente trabalho como Desenvolvedor Front end na Wex Inc. Trabalho principalmente com Angular.JS apesar da minha linguagem principal aqui no GitHub ser Java (culpa da minha faculdade). No meio acadêmico a minha principal área de interesse é IA. No restante do meu dia eu estou bastante ocupado sendo um nerd viciado em Star Wars, gamer e torcedor do Esporte Clube Bahia.
+Olá! O meu nome é Wilton Júnior, sou baiano, nordestino com orgulho e atualmente trabalho como engenheiro de software na Wex Inc. Trabalho principalmente com Angular.JS no front end e .NET no backend, apesar da minha linguagem principal aqui no GitHub ser Java (culpa da minha faculdade). No meio acadêmico a minha principal área de interesse é IA. No restante do meu dia eu estou bastante ocupado sendo um nerd viciado em Star Wars, gamer e torcedor do Esporte Clube Bahia.
 
 - 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas @ [UCSAL](https://www.ucsal.br/)
 - 💢 Foco em desenvolvimento web
 - 🤖 Estuda IA para se divertir
-- 📚 Estudando no momento **Js** e **Flutter**
+- 📚 Estudando no momento **Js**, **.NET** e **Python**
 
 ---
 
 ### 🚀 Meus objetivos:
 
 - Fazer mestrado um mestrado
-- Aprofundar meus conhecimentos em desenvolvimento frontend e mobile
+- Aprofundar meus conhecimentos em desenvolvimento fullstack
 - Ser cada vez mais ativo na comunidade
 
 ---
